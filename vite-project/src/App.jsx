@@ -1,5 +1,5 @@
+import Chai from "./Chai"
 function App() {
-  return <h1>hello hell</h1>
+ return(<Chai/>)
 }
-
 export default App
