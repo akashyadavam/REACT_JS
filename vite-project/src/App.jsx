@@ -1,5 +1,5 @@
-import Chai from "./Chai"
+import Chai from "./Chai.jsx";
 function App() {
- return(<Chai/>)
+  return <Chai />;
 }
-export default App
+export default App;
